@@ -1,0 +1,4 @@
+npm i -D vitest
+npm i --save-dev @testing-library/jest-dom @testing-library/react
+npm install --save-dev jsdom
+npm install --save-dev @vitest/coverage-v8
